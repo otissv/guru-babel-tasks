@@ -1,11 +1,8 @@
 {
-  "name": "@guru/babel-tasks",
-  "version": "1.0.0",
-  "description": "Transpiles javascript files via babel from src folder to dist folder",
-  "author": "Otis Virginie",
-  "license": "MIT",
-  "repository": "https://github.com/otissv/guru-babel-tasks.git",
-  "main": "./task.js",
+  "name": "@graphql-guru/babel-tasks",
+  "version": "1.0.1",
+  "description": "Transpiles javascript files via babel from src folder to dist folder.",
+  "main": "tasks.js",
   "keywords": [
     "Babel",
     "tasks",
@@ -29,5 +26,18 @@
     "minimist": "^1.2.0",
     "shelljs": "^0.7.7",
     "watch": "^1.0.2"
-  }
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otissv/guru-babel-tasks.git"
+  },
+  "author": "Otis Virginie",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/otissv/guru-babel-tasks/issues"
+  },
+  "homepage": "https://github.com/otissv/guru-babel-tasks#readme"
 }

@@ -7,9 +7,9 @@ npm install @guru/babel-tasks.
 
 Add to your package.json scripts.  
 
-To build `node ./node_modules/@guru/babel-tasks/tasks.js`
+To build `node ./node_modules/@graphql-guru/babel-tasks/tasks.js`
 
-To watch  `node ./node_modules/@guru/babel-tasks/tasks.js -w`  
+To watch  `node ./node_modules/@graphql-guru/babel-tasks/tasks.js -w`  
 
 ## License
 MIT
