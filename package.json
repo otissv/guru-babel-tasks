@@ -1,6 +1,6 @@
 {
   "name": "@graphql-guru/babel-tasks",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "Transpiles javascript files via babel from src folder to dist folder.",
   "main": "tasks.js",
   "keywords": [
